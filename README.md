@@ -64,7 +64,7 @@ https://github.com/HaifaAlobaid/NOxSYN
 ```
 # Navigate
 ```
-cd SYNGuard-Simulator
+cd NOxSYN
 ```
 # Start the main menu
 ```
@@ -75,9 +75,10 @@ Instead of sending a fixed number of packets, our SYN flooding module uses multi
 
 ##  Directory Structure
 ```
-SYNGuard-Simulator/
+NOxSYN/
 ├── sim.py               # Main launcher and interactive menu
 ├── Ourmethodology.png   # Diagram of enhanced TCP handshake
+├── Ourmethodology.png   # Another Diagram of Our method
 └── README.md
 ```
 
