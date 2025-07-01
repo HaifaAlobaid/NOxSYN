@@ -53,6 +53,7 @@ SYN_Cookie = HMAC(Secret_Key, Client_IP || Client_Port || Timestamp || Nonce)
 - No server-side memory allocation before full handshake
 
 ![Enhanced Three-Way Handshake](syn_img.jpg)
+![Our Method](syn_img2.jpg)
 
 
 ##  Usage Instructions
