@@ -60,7 +60,7 @@ SYN_Cookie = HMAC(Secret_Key, Client_IP || Client_Port || Timestamp || Nonce)
 
 # Clone 
 ```
-https://github.com/yourusername/SYNGuard-Simulator.git
+https://github.com/HaifaAlobaid/NOxSYN
 ```
 # Navigate
 ```
